@@ -1,13 +1,13 @@
 /**
- * Name: [Enter Your Name Here]
- * Date: [Enter Today's Date]
+ * Name: Johnny Garcia
+ * Date: 9/13/2025
 * Purpose: InClass 3 - 
 * [Write a description about this InClass 3 program]
  */
 
 // Don't forget to import and declare a Scanner for user input.
 
-public class InClass3_FirstName_LastName
+public class InClass3_Johnny_Garcia
 {
     public static void main(String[] args) 
     {
